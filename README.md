@@ -12,12 +12,12 @@
  
 I am a dedicated and innovative software developer with a strong passion for creating meaningful digital experiences. My journey in the world of software development began over one years ago, and since then, I have continuously expanded my skill set and expertise across a range of technologies and tools.
 
+![DOTNET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![React.js](https://img.shields.io/badge/-React.js-61DAFB?style=for-the-badge&logo=react&labelColor=0D1117)
-![Node.js](https://img.shields.io/badge/-Node.js-215732?style=for-the-badge&logo=node.js&labelColor=000000)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&labelColor=0D1117)
 ![CSS](https://img.shields.io/badge/-CSS-2965f1?style=for-the-badge&logo=CSS3&labelColor=0D1117)
 
-My technical proficiency includes JavaScript, TypeScript, React, Node.js, CSS, HTML, Figma, Git, GitHub.
+My technical proficiency includes JavaScript, React, .NET, CSS, HTML, Figma, Git, GitHub.
 
 </div>
 
